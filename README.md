@@ -12,7 +12,8 @@ Rebuilding my tech journey from scratch.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![image](https://github.com/user-attachments/assets/e5edd7a2-9cf4-45ed-a227-7256688bf088)
+![image](https://github.com/user-attachments/assets/655c8a10-7fdc-4d68-99d0-0780924baefd)
+
 
 
 ## 📫 Connect with Me

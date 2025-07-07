@@ -4,7 +4,7 @@ Rebuilding my tech journey from scratch.
 
 
 # 💫 About Me:
-I'm Ezra Ayalew aka ibxbit, a passionate content creator and web developer. I've honed my skills in video editing, graphic design, web development, and digital marketing through a variety of projects. From building educational websites to developing a library management system and even a retro gaming console, I've had the opportunity to explore different aspects of technology.<br><br>As a certified digital marketer, I'm also well-versed in Google Ads and SEO. I'm excited to continue learning and growing in this field, and I'm always open to new projects and collaborations.
+I'm Ezra Ayalew aka ibxbit, a web developer and content creator. I've honed my skills in  web development, video editing, graphic design, and digital marketing through a variety of projects. From building educational websites to developing a library management system and even a retro gaming console, I've had the opportunity to explore different aspects of technology.<br><br>As a certified digital marketer, I'm also well-versed in Google Ads and SEO. I'm excited to continue learning and growing in this field, and I'm always open to new projects and collaborations.
 
 
 ## 🌐 Socials:

@@ -10,9 +10,6 @@
 # 💫 About Me:
 I'm Ezra Ayalew aka ibxbit, a web developer and content creator. I've honed my skills in  web development, video editing, graphic design, and digital marketing through a variety of projects. From building educational websites to developing a library management system and even a retro gaming console, I've had the opportunity to explore different aspects of technology.<br><br>As a certified digital marketer, I'm also well-versed in Google Ads and SEO. I'm excited to continue learning and growing in this field, and I'm always open to new projects and collaborations.
 
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">

@@ -1,12 +1,17 @@
-# 👋 Hey, I'm ibxbit
+# Welcome, I'm ibxbit
 
 
 ###
 
 
 # 💫 About Me:
-I'm Ezra Ayalew aka ibxbit, a web developer and content creator. I've honed my skills in  web development, video editing, graphic design, and digital marketing through a variety of projects. From building educational websites to developing a library management system and even a retro gaming console, I've had the opportunity to explore different aspects of technology.<br><br>As a certified digital marketer, I'm also well-versed in Google Ads and SEO. I'm excited to continue learning and growing in this field, and I'm always open to new projects and collaborations.
+I'm Ezra Ayalew (ibxbit), a web and app developer and content creator passionate about leveraging technology to build impactful solutions. My core competencies include:
 
+* **Web & App Development:** Expertise in crafting responsive and functional web applications and mobile apps.
+* **Content Creation:** Proficient in video editing and graphic design to produce engaging digital content.
+* **Digital Marketing:** Certified in Google Ads and skilled in SEO strategies.
+
+My project experience demonstrates a breadth of application, from developing educational websites and apps, and a library management system, to creating a retro gaming console. I am consistently seeking opportunities to learn, innovate, and collaborate on challenging new ventures.
 ###
 
 <div align="center">

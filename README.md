@@ -4,7 +4,7 @@
 ###
 
 
-# 💫 About Me:
+#                                                  💫 About Me:
 I'm Ezra Ayalew (ibxbit), a web and app developer and content creator passionate about leveraging technology to build impactful solutions. My core competencies include:
 
 * **Web & App Development:** Expertise in crafting responsive and functional web applications and mobile apps.

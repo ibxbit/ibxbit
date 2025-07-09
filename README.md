@@ -1,8 +1,5 @@
 # 👋 Hey, I'm ibxbit
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
 
@@ -63,6 +60,14 @@ I'm Ezra Ayalew aka ibxbit, a web developer and content creator. I've honed my s
 </div>
 
 ###
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
 
 ###
 

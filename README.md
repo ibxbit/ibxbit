@@ -4,7 +4,7 @@ a **Web & App Developer**, **DevOps Engineer**, and **Content Creator** passiona
 
 ---
 
-### 🚀 What I Do:
+###  What I Do:
 
 * **Web & App Development:** Crafting responsive and functional web applications and mobile apps.
 * **DevOps Engineering:** Streamlining development workflows, automation, and infrastructure management.
@@ -13,7 +13,7 @@ a **Web & App Developer**, **DevOps Engineer**, and **Content Creator** passiona
 
 ---
 
-### ✨ My Projects Include:
+###  My Projects Include:
 
 * **Educational Platforms:** Developing interactive websites and apps for learning.
 * **System Management:** Building a comprehensive library management system.

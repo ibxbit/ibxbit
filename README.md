@@ -1,18 +1,29 @@
-# Welcome, I'm ibxbit
+# Ezra Ayalew (ibxbit)
 
+I'm Ezra Ayalew (ibxbit), a **Web and App Developer**, **DevOps Engineer**, and **Content Creator** passionate about leveraging technology to build impactful solutions.
 
-###
+---
 
+### My Core Competencies:
 
-#                                                  💫 About Me:
-I'm Ezra Ayalew (ibxbit), a web and app developer and content creator passionate about leveraging technology to build impactful solutions. My core competencies include:
+1.  **Web & App Development:** Expertise in crafting responsive and functional web applications and mobile apps.
+2.  **DevOps Engineering:** Skilled in streamlining development workflows, automation, and infrastructure management.
+3.  **Content Creation:** Proficient in video editing and graphic design to produce engaging digital content.
+4.  **Digital Marketing:** Certified in Google Ads and skilled in SEO strategies.
 
-* **Web & App Development:** Expertise in crafting responsive and functional web applications and mobile apps.
-* **Content Creation:** Proficient in video editing and graphic design to produce engaging digital content.
-* **Digital Marketing:** Certified in Google Ads and skilled in SEO strategies.
+---
 
-My project experience demonstrates a breadth of application, from developing educational websites and apps, and a library management system, to creating a retro gaming console. I am consistently seeking opportunities to learn, innovate, and collaborate on challenging new ventures.
-###
+### Project Experience:
+
+My project experience demonstrates a breadth of application, from developing:
+* Educational websites and apps
+* A library management system
+* A retro gaming console
+* _...and more, focusing on scalable and efficient deployments._ (You can expand on DevOps projects here)
+
+---
+
+I am consistently seeking opportunities to learn, innovate, and collaborate on challenging new ventures.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />

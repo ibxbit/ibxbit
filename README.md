@@ -1,6 +1,6 @@
 # Ezra Ayalew (ibxbit)
 
-I'm Ezra Ayalew (ibxbit), a **Web & App Developer**, **DevOps Engineer**, and **Content Creator** passionate about building impactful solutions through technology.
+a **Web & App Developer**, **DevOps Engineer**, and **Content Creator** passionate about building impactful solutions through technology.
 
 ---
 

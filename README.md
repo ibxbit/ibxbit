@@ -1,22 +1,3 @@
-# Ezra Ayalew (ibxbit)
-
-a **Web & App Developer**, **DevOps Engineer**, and **Content Creator** passionate about building impactful solutions through technology.
-
----
-
-###  What I Do:
-
-* **Web & App Development:** Crafting responsive and functional web applications and mobile apps.
-* **DevOps Engineering:** Streamlining development workflows, automation, and infrastructure management.
-* **Content Creation:** Producing engaging digital content through video editing and graphic design.
-* **Digital Marketing:** Certified in Google Ads and skilled in SEO strategies.
-
----
-
-I'm always eager to learn, innovate, and collaborate on challenging new ventures!
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

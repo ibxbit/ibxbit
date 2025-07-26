@@ -1,5 +1,3 @@
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <div align="center">
@@ -72,7 +70,7 @@
 </div>
 
 
-
+<h3 align="left">Connect with me:</h3>
 
 ###
 
